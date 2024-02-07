@@ -1,2 +1,4 @@
 # First-App
-This is the first app repos
+This is the first app repository
+<br>
+Author : Shuaib Shaikh 
